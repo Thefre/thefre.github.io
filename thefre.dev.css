@@ -1,0 +1,27 @@
+body {
+	background-color: #181818;
+	color: #0090FF;
+	font-family: 'Lexend';
+	font-weight: 700;
+}
+a {
+	font-family: 'Lexend';
+	font-weight: 700;
+	text-decoration: none;
+}
+a:link, a:visited {
+	color: #0090FF;
+}
+a:hover {
+	color: #69beff;
+}
+a:active {
+	color: #fa9420;
+}
+
+.lexend-<uniquifier> {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
